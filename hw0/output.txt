@@ -1,7 +1,7 @@
 ---
 name:
-   first: Chris
-   last: Dyer
-email: cdyer@cs.cmu.edu
-leaderboard: ProfDyer
-languages: [eng,deu]
+   first: Yohan
+   last: Jo
+email: yohanj@cs.cmu.edu
+leaderboard: Yohan
+languages: [eng,kor]
