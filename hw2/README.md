@@ -1,3 +1,12 @@
+This is an implementation of METEOR.
+I first removed all special characters and converted text into lower cases.
+For unigram alignment, I used exact match, first-4-letter match, and wordnet match in order.
+For fragmentation, I fixed beta to 0.8.
+The best score was achieved when alpha = 0.74, gamma = 0.30.
+
+
+
+
 There are three Python programs here (`-h` for usage):
 
  - `./evaluate` evaluates pairs of MT output hypotheses relative to a reference translation using counts of matched words
