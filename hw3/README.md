@@ -1,3 +1,6 @@
+When a phrase is attached to an existing hypothesis, the last two phrases can be swapped.
+
+
 There are three Python programs here (`-h` for usage):
 
  - `./decode` a simple non-reordering (monotone) phrase-based decoder
