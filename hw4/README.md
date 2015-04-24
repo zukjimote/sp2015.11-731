@@ -1,4 +1,4 @@
-output2_a0.01_b0.3_g1.0_dep+sub+prev_next+end+uni.txt
+output2_a0.01_b0.1_g1.3_dep+sub+prev_next+end+uni.txt
 Five feature types:
  - dep: dependency relation of the phrase's first word
  - sub: subject of the phrase's first word (if any)
