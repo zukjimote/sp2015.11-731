@@ -1,9 +1,9 @@
-output2_a0.01_b0.1_g1.3_dep+sub+prev_next+end+uni.txt
+output2_a0.01_b0.3_g0.2_dep+sub+prev+tense+uni.txt
 Five feature types:
  - dep: dependency relation of the phrase's first word
  - sub: subject of the phrase's first word (if any)
- - prev_next: previous/next words of the phrase (separate features)
- - end: last two alphabets of the target's first word X {POS tag, dependency relation, subject of the phrase's first word} (separate features)
+ - prev: previous words of the phrase (separate features)
+ - tense: tense of the phrase
  - uni: nouns, verbs, adjectives in the sentence (separate features)
 
 Relative goodness of the feature types: dep > sub > uni > prev_next > end > pos (not included)
